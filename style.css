@@ -17,6 +17,7 @@
      margin: 1rem;
      font-family: sans-serif;
      line-height: 1.5;
+     background: hsl(225, 100%, 94%);
  }
 
  .clearfix:after {
@@ -31,6 +32,14 @@
  .clear {
      clear: both;
  }
+ fieldset{
+    vertical-align: middle;
+    height: auto;
+    max-width: 100%;
+    font-family: 'Red Hat Display',
+        sans-serif;
+ }
+
  
  .attribution {
      font-size: 11px;
